@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         LinkedList<String>placesToVisit=new LinkedList<String>();
         placesToVisit.add("sydney");
-        placesToVisit.add("melbourne");
+        placesToVisit.add("London");
         placesToVisit.add("india");
         placesToVisit.add("miami");
 
@@ -30,3 +30,4 @@ public class Main {
         System.out.println("=============");
     }
 }
+
