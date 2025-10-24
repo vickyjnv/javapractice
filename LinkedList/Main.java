@@ -9,7 +9,7 @@ public class Main {
         placesToVisit.add("sydney");
         placesToVisit.add("London");
         placesToVisit.add("india");
-        placesToVisit.add("miami");
+        placesToVisit.add("Florida");
 
         printList(placesToVisit);
 
@@ -30,4 +30,5 @@ public class Main {
         System.out.println("=============");
     }
 }
+
 
